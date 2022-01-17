@@ -1,1 +1,2 @@
 # Traffic-Lights
+A 4-way traffic light system is simulated, using two sets of traffic lights (LEDS) that run in sequence; when one is green, the other is red, just like an intersection. An interrupt is used, a button, and when pressed, that cycle will speed up meaning that rather than having a delay of 6 seconds, it will have a delay of 3 seconds. The cycle returns to normal and sequence with a delay of 6 seconds resumes. 
